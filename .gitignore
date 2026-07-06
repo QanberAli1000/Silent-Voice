@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary App Files created during runtime
+temp_voice.mp3
+
+# OS generated files
+.DS_Store
+Thumbs.db
